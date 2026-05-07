@@ -17,6 +17,7 @@ int main()
 
     average=(m1+m2+m3)/3.0;
 
+
     printf(" average=%.2f\n",average);
     
     if(checkpass(m1,m2,m3))
@@ -25,4 +26,4 @@ int main()
     printf("result:fail\n");
     return 0;
 
-}
+}:wq
