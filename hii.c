@@ -25,5 +25,4 @@ int main()
     else
     printf("result:fail\n");
     return 0;
-
-}:wq
+}
